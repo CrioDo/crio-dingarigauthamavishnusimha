@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/crio-dingarigauthamavishnusimha/static/css/main.5db1380d.chunk.css",
+    "main.js": "/crio-dingarigauthamavishnusimha/static/js/main.f41a0b43.chunk.js",
+    "main.js.map": "/crio-dingarigauthamavishnusimha/static/js/main.f41a0b43.chunk.js.map",
+    "runtime-main.js": "/crio-dingarigauthamavishnusimha/static/js/runtime-main.5ffd976f.js",
+    "runtime-main.js.map": "/crio-dingarigauthamavishnusimha/static/js/runtime-main.5ffd976f.js.map",
+    "static/css/2.57ddf7ad.chunk.css": "/crio-dingarigauthamavishnusimha/static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.eb93fc92.chunk.js": "/crio-dingarigauthamavishnusimha/static/js/2.eb93fc92.chunk.js",
+    "static/js/2.eb93fc92.chunk.js.map": "/crio-dingarigauthamavishnusimha/static/js/2.eb93fc92.chunk.js.map",
+    "index.html": "/crio-dingarigauthamavishnusimha/index.html",
+    "precache-manifest.f5079a128b5a3ec1dd036c9f5927e630.js": "/crio-dingarigauthamavishnusimha/precache-manifest.f5079a128b5a3ec1dd036c9f5927e630.js",
+    "service-worker.js": "/crio-dingarigauthamavishnusimha/service-worker.js",
+    "static/css/2.57ddf7ad.chunk.css.map": "/crio-dingarigauthamavishnusimha/static/css/2.57ddf7ad.chunk.css.map",
+    "static/css/main.5db1380d.chunk.css.map": "/crio-dingarigauthamavishnusimha/static/css/main.5db1380d.chunk.css.map",
+    "static/js/2.eb93fc92.chunk.js.LICENSE.txt": "/crio-dingarigauthamavishnusimha/static/js/2.eb93fc92.chunk.js.LICENSE.txt",
+    "static/media/crio-logo-white.svg": "/crio-dingarigauthamavishnusimha/static/media/crio-logo-white.c9536e04.svg",
+    "static/media/crio-logo.svg": "/crio-dingarigauthamavishnusimha/static/media/crio-logo.63be71d0.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5ffd976f.js",
+    "static/css/2.57ddf7ad.chunk.css",
+    "static/js/2.eb93fc92.chunk.js",
+    "static/css/main.5db1380d.chunk.css",
+    "static/js/main.f41a0b43.chunk.js"
+  ]
+}
